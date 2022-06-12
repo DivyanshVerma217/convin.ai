@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/convin.ai/static/css/main.892f41c6.css",
+    "main.js": "/convin.ai/static/js/main.c5f1ca5c.js",
+    "index.html": "/convin.ai/index.html",
+    "main.892f41c6.css.map": "/convin.ai/static/css/main.892f41c6.css.map",
+    "main.c5f1ca5c.js.map": "/convin.ai/static/js/main.c5f1ca5c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.892f41c6.css",
+    "static/js/main.c5f1ca5c.js"
+  ]
+}
